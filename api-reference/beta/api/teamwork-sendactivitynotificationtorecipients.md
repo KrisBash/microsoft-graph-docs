@@ -80,6 +80,8 @@ The following example shows how to send an activity feed notification to multipl
 #### Request
 
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "teamwork_sendactivitynotificationtorecipients_1"
@@ -121,6 +123,12 @@ Content-Type: application/json
     ] 
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/teamwork-sendactivitynotificationtorecipients-1-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 #### Response
 
@@ -140,6 +148,8 @@ If you want to link an aspect that is not represented by Microsoft Graph, or you
 
 #### Request
 
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "teamwork_sendactivitynotificationtorecipients_2"
@@ -182,6 +192,12 @@ Content-Type: application/json
     ]
 }
 ```
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/teamwork-sendactivitynotificationtorecipients-2-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 ---
 
